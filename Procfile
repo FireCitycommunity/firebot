@@ -1,0 +1,1 @@
+firebot: node index.js
